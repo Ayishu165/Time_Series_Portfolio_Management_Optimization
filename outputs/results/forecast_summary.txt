@@ -1,0 +1,4 @@
+Forecast Summary
+================
+ARIMA: mean forecast over next 126 trading days = nan (nan% vs last price 324.45)
+LSTM: mean forecast over next 126 trading days = 273.96 (-15.56% vs last price 324.45)
